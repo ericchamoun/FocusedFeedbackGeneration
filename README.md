@@ -5,6 +5,7 @@ In this work, we propose the task of focused feedback generation for scientific 
 [Automated Focused Feedback Generation for Scientific Writing Assistance](https://arxiv.org/pdf/2405.20477). Eric Chamoun, Michael Schlichktrull, and Andreas Vlachos (ACL Findings 2024).
 
 **Citation**
+
 If you find this useful, please cite our paper as:
 
     @misc{chamoun2024automated,
