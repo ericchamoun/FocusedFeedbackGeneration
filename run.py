@@ -18,4 +18,3 @@ print("Enter the link of the paper:")
 paper_link = input(" > ")
 
 result = room.main_loop(paragraph, paper_link, config.instruction)
-print(result)
