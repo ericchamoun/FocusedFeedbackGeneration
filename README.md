@@ -4,7 +4,7 @@ In this work, we propose the task of focused feedback generation for scientific 
 
 [Automated Focused Feedback Generation for Scientific Writing Assistance](https://arxiv.org/pdf/2405.20477). Eric Chamoun, Michael Schlichktrull, and Andreas Vlachos (ACL Findings 2024).
 
-**Running SWIF$^2$T**
+**Running SWIF<sup>2</sup>T**
 
 1. Setup conda environment
 
@@ -27,7 +27,7 @@ python run.py
 
 **Future work**
 
-Future work will focus on enhancing literature-augmented question answering, implementing a weakness detection model and using recent open-source LLMs to decrease the costs associated with running SWIF$^2$T. If you are interested in collaborating, please do not hesitate to reach out.
+Future work will focus on enhancing literature-augmented question answering, implementing a weakness detection model and using recent open-source LLMs to decrease the costs associated with running SWIF<sup>2</sup>T. If you are interested in collaborating, please do not hesitate to reach out.
 
 **Citation**
 
