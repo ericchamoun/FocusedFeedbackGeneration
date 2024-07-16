@@ -1,6 +1,8 @@
 # Automated Focused Feedback Generation for Scientific Writing Assistance
 
-In this work, we propose the task of focused feedback generation for scientific writing assistance. Focused feedback entails providing specific, actionable, and coherent comments that identify weaknesses in a paper or suggest revisions.
+In this work, we propose the task of focused feedback generation for scientific writing assistance. Focused feedback entails providing specific, actionable, and coherent comments that identify weaknesses in a paper and/or suggest revisions. 
+
+To this end, we present SWIF<sup>2</sup>T: a Scientific WrIting Focused Feedback Tool. Our approach consists of four components - planner, investigator, reviewer and controller - leveraging multiple Large Language Models (LLMs) to implement them. We compile a dataset of 300 peer reviews citing weaknesses in scientific papers and conduct human evaluation. The results demonstrate the superiority in specificity, reading comprehension, and overall helpfulness of SWIF<sup>2</sup>T’s feedback compared to other approaches.
 
 [Automated Focused Feedback Generation for Scientific Writing Assistance](https://arxiv.org/pdf/2405.20477). Eric Chamoun, Michael Schlichktrull, and Andreas Vlachos (ACL Findings 2024).
 
